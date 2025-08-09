@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I am funny**
 
-- 👀 I’m interested in creating new websites, learning coding and new skills
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on creative development projects
+- 👀 I’m interested in solving real-world problems, learning and exploring new skills and technologies
+- 🌱 I’m currently working on Data Science & Machine Learning Projects
+- 💞️ I’m looking to collaborate on creative projects
    
 
 
